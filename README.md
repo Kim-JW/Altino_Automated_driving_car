@@ -17,7 +17,7 @@ Here is detail of ALTINO : <http://www.saeon.co.kr/main/sub_page.php?page_idx=92
 
 Here is T course
 
-![T_course](./img/T_course.png ) 
+![T_course](./img/T_course.PNG ) 
 
 1. Turn on your own music when you meet the tunnel, turn off the music when the tunnel is over and go straight
 
@@ -30,7 +30,7 @@ Here is T course
 #### Project2 - Autonomous driving car
 
 Here is course
-![Big_course](./img/Big_course.png ) 
+![Big_course](./img/Big_course.PNG ) 
 
 
 ## Problems
